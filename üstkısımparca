@@ -1,0 +1,11 @@
+
+      <div>
+        <img
+          className="w-full h-56 object-cover opacity-80 absolute px-5"
+          src="/src/images/film3.jpg"
+          alt="film"
+        />
+        <h1 className="text-center text-3xl relative top-24 text-white">
+          Film İsmi
+        </h1>
+      </div>

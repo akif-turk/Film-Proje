@@ -11,8 +11,3 @@
 - redux-toolkit-query
 - Top rated, popular ve trending kategorileri
 - bunların detay sayfaları ve favori sayfası
--
-# Film-proje
-# Film-proje
-# Film-Proje
-# Film-Proje
